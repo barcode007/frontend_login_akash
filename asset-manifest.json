@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend_login_akash/static/css/main.694cee13.css",
+    "main.js": "/frontend_login_akash/static/js/main.1c0190d1.js",
+    "index.html": "/frontend_login_akash/index.html",
+    "main.694cee13.css.map": "/frontend_login_akash/static/css/main.694cee13.css.map",
+    "main.1c0190d1.js.map": "/frontend_login_akash/static/js/main.1c0190d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.694cee13.css",
+    "static/js/main.1c0190d1.js"
+  ]
+}
